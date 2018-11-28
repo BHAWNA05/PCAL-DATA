@@ -1,0 +1,10 @@
+Organization ID
+knthz4
+Device Type
+Flow_Meter
+Device ID
+B05H24S07
+Authentication Method
+use-token-auth
+Authentication Token
+0_LuyVSZYGAQch@(el

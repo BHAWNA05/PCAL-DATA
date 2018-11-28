@@ -1,0 +1,14 @@
+https://wingoodharry.wordpress.com/2014/04/15/android-sendreceive-data-with-arduino-using-bluetooth-part-2/
+
+
+
+
+
+http://android-er.blogspot.in/2015/07/android-example-to-communicate-with.html
+
+
+http://solderer.tv/data-transfer-between-android-and-arduino-via-bluetooth/
+
+
+
+https://stackoverflow.com/questions/13450406/how-to-receive-serial-data-using-android-bluetooth
